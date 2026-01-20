@@ -52,8 +52,8 @@ Python-based project for workout analysis and calibration
 
 ## 🤝 Let's Connect
 
-- 🌐 Portfolio: *(add your deployed link)*
-- 💼 LinkedIn: *(add link)*
-- 📫 Email: *(optional)*
+- 🌐 Portfolio: *https://rohoxoxo.github.io/Portfolio/*
+- 💼 LinkedIn: *https://www.linkedin.com/in/rohitchadel/*
+- 📫 Email: *rohoxoxo@gmail.com*
 
 ⭐ *Always open to learning, collaborating, and growing*
