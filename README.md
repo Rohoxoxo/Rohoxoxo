@@ -7,9 +7,11 @@
 ---
 
 ## 💫 About Me
+🚧 *Currently Building :*
+-   ☁️🤖**Real Estate Price Prediction System (ML + AWS Serverless):** Designing an end-to-end ML system with model training, serverless inference, monitoring,
+-  🔭🦀**Cruft Crawler:** an offline AI-driven background disk cleanup system (Rust)
 
-- 🔭 Currently working on **Cruft Crawler** — an offline AI-driven background disk cleanup system (Rust)
-- 🌱 Learning **AWS (SAA-C03)**, cloud architecture, and system design
+- 📌 Completed AWS **Solutions Architect Associate (SAA-C03) course** and continuing to deepen my knowledge in cloud architecture and system design
 - 🧠 Exploring **AI + Systems + Cloud** intersections
 - 💼 Actively preparing for **internships & entry-level roles**
 - ⚡ I enjoy building practical projects that solve real problems
@@ -18,18 +20,27 @@
 
 ## 💻 Tech Stack
 
-**Languages:**  
-`Python` `Rust` `JavaScript` `SQL`
+**Programming Languages:**
+`Python` `C++` `Java` `Rust`
 
-**Cloud & Tools:**  
-`AWS` `Docker` `Git` `Linux` `VS Code`
+**Cloud & DevOps:**
+`AWS (EC2, S3, IAM, VPC, Lambda, API Gateway, CloudWatch, DynamoDB)` `Docker` `CI/CD`
 
-**Frameworks & Libraries:**  
-`React` `Node.js` `BeautifulSoup` `PyTorch (basic)`
+**Backend & Databases:**
+`REST APIs` `MySQL` `SQL` `MongoDB` `Node.js`
+
+**Machine Learning & Data:**
+`Scikit-learn` `Pandas` `NumPy` `Model Deployment`
+
+**Tools:**
+`Git` `GitHub` `Linux` `Unity` `Docker`
 
 ---
 
 ## 🚀 Featured Projects
+
+🔹 **Real Estate Price Prediction System (AWS + ML)**
+Production-style machine learning system that predicts house prices using a trained model deployed using AWS serverless architecture.
 
 🔹 **Cruft Crawler (Rust)**  
 Offline, LLM-first background agent for filesystem analysis  
@@ -44,11 +55,6 @@ Python-based project for workout analysis and calibration
 
 ---
 
-## 📊 GitHub Stats
-
-![Rohit's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rohoxoxo&show_icons=true&theme=tokyonight)
-
----
 
 ## 🤝 Let's Connect
 
