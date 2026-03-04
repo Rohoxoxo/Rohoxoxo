@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Rohit Chandel
+## 🙍🏻‍♂️ Hi, I'm Rohit Chandel
 
 🎓 Computer Science Undergraduate | SIUE  
 ☁️ Aspiring Cloud / Software Engineer  
