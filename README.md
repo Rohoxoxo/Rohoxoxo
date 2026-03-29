@@ -60,6 +60,6 @@ Python-based project for workout analysis and calibration
 
 - 🌐 Portfolio: *https://rohoxoxo.github.io/Portfolio/*
 - 💼 LinkedIn: *https://www.linkedin.com/in/rohitchadel/*
-- 📫 Email: *rohoxoxo@gmail.com*
+- 📫 Email: *chandelrohit803@gmail.com*
 
 ⭐ *Always open to learning, collaborating, and growing*
