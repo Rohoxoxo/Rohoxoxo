@@ -1,65 +1,58 @@
-## 🙍🏻‍♂️ Hi, I'm Rohit Chandel
+### 🙍🏻‍♂️ Hi, I'm Rohit Chandel
 
-🎓 Computer Science Undergraduate | SIUE  
-☁️ Aspiring Cloud / Software Engineer  
-🤖 Interested in AI Systems, Distributed Systems & AWS  
-
----
-
-## 💫 About Me
-🚧 *Currently Building :*
--   ☁️🤖**Real Estate Price Prediction System (ML + AWS Serverless):** Designing an end-to-end ML system with model training, serverless inference, monitoring,
--  🔭🦀**Cruft Crawler:** an offline AI-driven background disk cleanup system (Rust)
-
-- 📌 Completed AWS **Solutions Architect Associate (SAA-C03) course** and continuing to deepen my knowledge in cloud architecture and system design
-- 🧠 Exploring **AI + Systems + Cloud** intersections
-- 💼 Actively preparing for **internships & entry-level roles**
-- ⚡ I enjoy building practical projects that solve real problems
+📊 Business Analytics / Risk & Data grad student | SIUE
+🎯 Building toward finance & analytics roles — risk surveillance, data pipelines, BI
+🧮 Interested in the intersection of statistics, financial data, and automated reporting
 
 ---
 
-## 💻 Tech Stack
+### 💫 About Me
 
-**Programming Languages:**
-`Python` `C++` `Java` `Rust`
+**✅ Recently Shipped:**
+- 📈 **[Institutional Portfolio Risk Surveillance Dashboard](https://github.com/Rohoxoxo/portfolio-surveillance)** — an end-to-end risk surveillance system built on real SEC 13F filings from 6 major institutional managers (Berkshire Hathaway, Renaissance Technologies, and others), with a custom composite risk score (concentration, turnover, benchmark deviation), forecasting, and a fully automated weekly refresh pipeline
 
-**Cloud & DevOps:**
-`AWS (EC2, S3, IAM, VPC, Lambda, API Gateway, CloudWatch, DynamoDB)` `Docker` `CI/CD`
+**🚧 Currently Working On:**
+- 📚 Studying for the **Microsoft PL-300 (Power BI Data Analyst)** certification — completed the full 8-course Coursera specialization
 
-**Backend & Databases:**
-`REST APIs` `MySQL` `SQL` `MongoDB` `Node.js`
-
-**Machine Learning & Data:**
-`Scikit-learn` `Pandas` `NumPy` `Model Deployment`
-
-**Tools:**
-`Git` `GitHub` `Linux` `Unity` `Docker`
+**📌 Also:**
+- 🎓 Pursuing an MS in Management Information Systems (Business Analytics specialization) at SIUE, on top of a BS in Computer Science
+- ☁️ Hold AWS Certified Solutions Architect – Associate and AWS Cloud Practitioner certifications
+- 💼 Actively looking for Summer 2027 finance/analytics internships in the St. Louis area
+- ⚡ I like projects where the hard part is knowing whether a number is *right*, not just generating it
 
 ---
 
-## 🚀 Featured Projects
+### 💻 Tech Stack
+
+**Analytics & BI:** Power BI · DAX · SQL · Statistical modeling (z-scores, HHI, forecasting)
+**Data Engineering:** Python · PostgreSQL · ETL pipelines · GitHub Actions automation
+**Programming Languages:** Python · SQL · C++ · Java · Rust
+**Cloud & DevOps:** AWS (EC2, S3, IAM, VPC, Lambda, API Gateway, CloudWatch, DynamoDB) · Docker · CI/CD
+**Backend & Databases:** REST APIs · MySQL · MongoDB · Node.js
+**ML & Data:** Scikit-learn · Pandas · NumPy
+
+---
+
+### 🚀 Featured Projects
+
+🔹 **[Institutional Portfolio Risk Surveillance Dashboard](https://github.com/Rohoxoxo/portfolio-surveillance)** — MIT License
+Automated risk surveillance pipeline built on real SEC EDGAR 13F filings — Python ETL → PostgreSQL star schema → Power BI risk-scoring model (DAX). Flags managers whose concentration, turnover, or benchmark tracking looks statistically abnormal vs. peers, with a one-quarter-ahead forecast and a fully automated weekly GitHub Actions refresh.
 
 🔹 **Real Estate Price Prediction System (AWS + ML)**
-Production-style machine learning system that predicts house prices using a trained model deployed using AWS serverless architecture.
+Production-style ML system predicting house prices, deployed via AWS serverless architecture.
 
-🔹 **Cruft Crawler (Rust)**  
-Offline, LLM-first background agent for filesystem analysis  
-👉 Runs from USB, low CPU usage, privacy-first  
+🔹 **Cruft Crawler (Rust)**
+Offline, LLM-first background agent for filesystem analysis — runs from USB, low CPU usage, privacy-first.
 
-🔹 **Portfolio Website**  
-Personal developer portfolio built with React  
-👉 Showcases projects, resume, and skills  
-
-🔹 **Exercise Calibrator**  
-Python-based project for workout analysis and calibration  
+🔹 **Portfolio Website**
+Personal developer portfolio built with React — showcases projects, resume, and skills.
 
 ---
 
+### 🤝 Let's Connect
 
-## 🤝 Let's Connect
+🌐 Portfolio: https://rohoxoxo.github.io/Portfolio/
+💼 LinkedIn: https://www.linkedin.com/in/rohitchadel/
+📫 Email: chandelrohit803@gmail.com
 
-- 🌐 Portfolio: *https://rohoxoxo.github.io/Portfolio/*
-- 💼 LinkedIn: *https://www.linkedin.com/in/rohitchadel/*
-- 📫 Email: *chandelrohit803@gmail.com*
-
-⭐ *Always open to learning, collaborating, and growing*
+⭐ Always open to learning, collaborating, and growing
